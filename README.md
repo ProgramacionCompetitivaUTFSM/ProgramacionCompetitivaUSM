@@ -1,1 +1,1 @@
-## Taller de Programación Competitiva - Universidad Técnica Federico Santa María
+## Taller de Programación Competitiva USM

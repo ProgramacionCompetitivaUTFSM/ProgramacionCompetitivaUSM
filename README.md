@@ -1,4 +1,4 @@
-## Taller de Programación Competitiva USM
+## Programación Competitiva USM
 
 ### Navigación rápida
   * [Motivación](#motivaci-n)

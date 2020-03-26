@@ -5,9 +5,13 @@
   * [Ejes temáticos](#ejes-tem-ticos)
   * [Material de Estudio](#material-de-estudio)
 
-### Motivación
-
 ### Ejes temáticos
 
+
 ### Material de Estudio
+#### Sitios web relacionados
+
+
+#### Soluciones
+
 

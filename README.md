@@ -1,6 +1,3 @@
-<img align="left" width="50" height="40" src="./misc/solid_terminal.png" alt="Icono terminal">
-
-## Programación Competitiva USM
 
 ![Logo ProgCompt UTFSM](./misc/utfsm_cp.png)
 Bienvenidos al repositorio de apoyo de Programación Competitiva, Universidad Técnica Federico Santa María.

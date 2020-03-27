@@ -1,4 +1,5 @@
-<img align="left" width="80" height="80" src="./misc/solid_terminal.png" alt="Icono terminal">
+<img align="left" width="50" height="50" src="./misc/solid_terminal.png" alt="Icono terminal">
+
 ## Programación Competitiva USM
 
 ![Logo ProgCompt UTFSM](./misc/utfsm_cp.png)

@@ -1,5 +1,5 @@
 ## Programación Competitiva USM
-
+![Logo ProgCompt UTFSM](./misc/utfsm_cp.png)
 
 ### Navigación rápida
   * [Motivación](#motivaci-n)

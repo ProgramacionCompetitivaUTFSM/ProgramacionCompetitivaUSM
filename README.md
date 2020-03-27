@@ -1,8 +1,8 @@
 ## Programación Competitiva USM
 ![Logo ProgCompt UTFSM](./misc/utfsm_cp.png)
+Bienvenidos al repositorio de apoyo de Programación Competitiva, Universidad Técnica Federico Santa María.
 
 ### Navigación rápida
-  * [Motivación](#motivaci-n)
   * [Ejes temáticos](#ejes-tem-ticos)
   * [Material de Estudio](#material-de-estudio)
 

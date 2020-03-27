@@ -1,4 +1,4 @@
-<img align="left" width="50" height="50" src="./misc/solid_terminal.png" alt="Icono terminal">
+<img align="left" width="50" height="40" src="./misc/solid_terminal.png" alt="Icono terminal">
 
 ## Programación Competitiva USM
 

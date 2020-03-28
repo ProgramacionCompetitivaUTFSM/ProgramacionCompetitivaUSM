@@ -8,8 +8,8 @@
 [Link de contest](https://www.urionlinejudge.com.br/judge/es/contests/view/502)  
 Fecha: 25 de marzo, 2020 - 30 de marzo, 2020
 
-| Problema     | Propuesto por | Solución     |
-|  :----:        |    :----:   |           :----:  |
-| A      | xx     | [link]()   |
-| A   | xx      | [link]()    |
+| Problema     | Propuesto por | Solución     | Lenguaje |
+|  :----:        |    :----:   |           :----:  | |           :----:  | 
+| A      | xx     | [link]()   | |C++|
+| A   | xx      | [link]()    | |Python|
 

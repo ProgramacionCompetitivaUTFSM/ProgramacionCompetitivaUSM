@@ -10,6 +10,6 @@ Fecha: 25 de marzo, 2020 - 30 de marzo, 2020
 
 | Problema     | Propuesto por | Solución     | Lenguaje |
 |  :----:        |    :----:   |           :----:  | |           :----:  | 
-| A      | xx     | [link]()   | |C++|
-| A   | xx      | [link]()    | |Python|
+| A      | xx     | [link]()   | C++|
+| A   | xx      | [link]()    | Python|
 

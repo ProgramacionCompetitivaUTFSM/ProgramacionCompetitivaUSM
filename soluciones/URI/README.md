@@ -12,5 +12,7 @@
 Fecha: 25 de marzo, 2020 - 30 de marzo, 2020
 #### A
 Solución propuesta por xx: [link]()
+Solución propuesta por xx: [link]()
+Solución propuesta por xx: [link]()
 #### B
 #### C

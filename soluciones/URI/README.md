@@ -1,4 +1,4 @@
-## Soluciones a problemas de [URI Online Judge](urionlinejudge.com.br)
+# Soluciones a problemas de [URI Online Judge](urionlinejudge.com.br)
 
 ## Índice:
   * [Maratona PUC - Goiás #1 - Replay Contest](#maratona-puc---goi-s--1---replay-contest)

@@ -5,7 +5,7 @@
 
 ---
 
-## Índice:
+<p align="center">
 1. [Principiante](#principiante)
 2. [Ad-Hoc](#ad-hoc)
 3. [Strings](#strings)
@@ -15,4 +15,4 @@
 7. [Grafos](#grafos)
 8. [Geomtría Computacional](#geomtr-a-computacional)
 9. [SQL](#sql)
-
+</p>

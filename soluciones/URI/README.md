@@ -10,7 +10,7 @@ Fecha: 25 de marzo, 2020 - 30 de marzo, 2020
 
 | Problema     | Propuesto por | Solución     | Lenguaje | Estado | Tiempo | CPU Complexity| Memory Complexity | Commentario|
 |  :----:        |    :----:   |           :----:  |           :----:  |            :----:  |            :----:  |            :----:  |            :----:  |             :----:  | 
-| A      | xx     | [link]()   | C++| ![AC](https://placehold.it/40/7FFF00/FFFFFF?text=AC) | 0.00ms | O(N) | O(N^2) | -|
+| A      | xx     | [link]()   | C++| ![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC) | 0.00ms | O(N) | O(N^2) | -|
 | A   | xx      | [link]()    | Python|![WA](https://placehold.it/40/f03c15/FFFFFF?text=WA) | 0.00ms | O(N!) | O(N^3) | -|
 | A   | xx      | [link]()    | Python|![TLE](https://placehold.it/40/ffa500/FFFFFF?text=TLE)| 0.00ms | O(N!) | O(N^3) | -|
 

@@ -14,47 +14,49 @@
 8. [Geomtría Computacional](#geomtr-a-computacional)
 9. [SQL](#sql)
 
+---
 ### Principiante
 <p align="center">
   <img width="690" height="184" src="/misc/uri_principiante.png">
 </p>
-
+---
 ### Ad-Hoc
 <p align="center">
   <img width="690" height="184" src="/misc/uri_adhoc.png">
 </p>
-
+---
 ### Strings
 <p align="center">
   <img width="690" height="184" src="/misc/uri_strings.png">
 </p>
-
+---
 ### Estructuras de Datos y Bibliotecas
 <p align="center">
   <img width="690" height="184" src="/misc/uri_eddbibliotecas.png">
 </p>
-
+---
 ### Matemáticas
 <p align="center">
   <img width="690" height="184" src="/misc/uri_matematicas.png">
 </p>
-
+---
 ### Paradigmas
 <p align="center">
   <img width="690" height="184" src="/misc/uri_paradigmas.png">
 </p>
-
+---
 ### Grafos
 <p align="center">
   <img width="690" height="184" src="/misc/uri_grafos.png">
 </p>
-
+---
 ### Geomtría Computacional
 <p align="center">
   <img width="690" height="184" src="/misc/uri_geometria.png">
 </p>
-
+---
 ### SQL
 <p align="center">
   <img width="690" height="184" src="/misc/uri_sql.png">
 </p>
+---

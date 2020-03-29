@@ -1,4 +1,4 @@
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+<img align="left" width="51" height="35" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/9144/Rl1qxNZhT5u7Bii1tesO">
 
 # Soluciones de los problemas de [URI Online Judge](urionlinejudge.com.br)
 

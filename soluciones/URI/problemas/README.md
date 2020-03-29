@@ -13,7 +13,7 @@
 
 ### Principiante
 <p align="center">
-  <img width="345" height="92" src="/misc/uri_principiante.png">
+  <img width="375" height="222" src="/misc/uri_principiante.png">
 </p>
 
 ### Ad-Hoc

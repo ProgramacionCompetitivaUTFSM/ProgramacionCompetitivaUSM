@@ -4,13 +4,15 @@
 </p>
 
 ---
+| Sección     | Cantidad | Link a carpeta de soluciones    |
+|  :----:        |    :----:   |           :----:  |  
+| Principiante     | 298   | [link](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/principiante) | 
+| Ad-Hoc   | 691       | Python|[link](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/adhoc) | 
+| Strings   | 127     |[Strings](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/strings)|
+| EDD y Bibliotecas  | 152     |[Estructuras de Datos y Bibliotecas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/edd_y_bibliotecas)| 
+| Matemáticas  | 235      |[Matemáticas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/matematicas)| 
+| Paradigmas  | 192    |[Paradigmas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/paradigmas)| 
+| Grafos | 238     |[Grafos](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/grafos)| 
+| Geometría Computacional  | 73      |[Geometría Computacional](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/geometria_comp)| 
+| SQL  | 46      |[SQL](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/sql)| 
 
-1. [Principiante](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/principiante)
-2. [Ad-Hoc](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/adhoc)
-3. [Strings](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/strings)
-4. [Estructuras de Datos y Bibliotecas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/edd_y_bibliotecas)
-5. [Matemáticas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/matematicas)
-6. [Paradigmas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/paradigmas)
-7. [Grafos](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/grafos)
-8. [Geometría Computacional](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/geometria_comp)
-9. [SQL](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/sql)

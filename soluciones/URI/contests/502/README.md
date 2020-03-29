@@ -1,15 +1,15 @@
 # Contest 502 - Maratona PUC - Goiás #1 - Replay Contest
 [Link de contest](https://www.urionlinejudge.com.br/judge/es/contests/view/502)
 
-## A
+### A
 
-### nombre_en_github
+#### nombre_en_github
 Explicion ejemplo
 
-## B
-## C
-## D
-## E
-## F
-## G
-## H
+### B
+### C
+### D
+### E
+### F
+### G
+### H

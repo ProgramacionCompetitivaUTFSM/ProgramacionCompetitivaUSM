@@ -4,7 +4,7 @@
 </p>
 
 ---
-| Sección     | Cantidad | Resueltos | Link a carpeta con soluciones    | Commentarios |
+| Sección     | Total de problemas| Resueltos | Link a carpeta con soluciones    | Commentarios |
 |  :----:        |    :----:   |           :----:  |            :----:  |             :----:  |  
 | Principiante     | 298   | 0 | [link](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/principiante) | -|
 | Ad-Hoc   | 691       | 0 | [link](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/adhoc) | -|

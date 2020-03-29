@@ -5,7 +5,6 @@
 
 ---
 
-<center>
 1. [Principiante](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/principiante)
 2. [Ad-Hoc](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/adhoc)
 3. [Strings](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/strings)
@@ -13,6 +12,5 @@
 5. [Matemáticas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/matematicas)
 6. [Paradigmas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/paradigmas)
 7. [Grafos](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/grafos)
-8. [Geomtría Computacional](#geomtr-a-computacional)
+8. [Geometría Computacional](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/geometria_comp)
 9. [SQL](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/sql)
-</center>

@@ -5,14 +5,14 @@
 
 ---
 
-<ol align="center">
-1. [Principiante](#principiante)
-2. [Ad-Hoc](#ad-hoc)
-3. [Strings](#strings)
-4. [Estructuras de Datos y Bibliotecas](#estructuras-de-datos-y-bibliotecas)
-5. [Matemáticas](#matem-ticas)
-6. [Paradigmas](#paradigmas)
-7. [Grafos](#grafos)
+<center>
+1. [Principiante](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/principiante)
+2. [Ad-Hoc](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/adhoc)
+3. [Strings](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/strings)
+4. [Estructuras de Datos y Bibliotecas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/edd_y_bibliotecas)
+5. [Matemáticas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/matematicas)
+6. [Paradigmas](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/paradigmas)
+7. [Grafos](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/grafos)
 8. [Geomtría Computacional](#geomtr-a-computacional)
-9. [SQL](#sql)
-</ol>
+9. [SQL](https://github.com/ProgamacionCompetitivaUTFSM/ProgramacionCompetitivaUSM/tree/master/soluciones/URI/problemas/sql)
+</center>

@@ -1,4 +1,5 @@
-<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"># Soluciones de los problemas de [URI Online Judge](urionlinejudge.com.br)
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+# Soluciones de los problemas de [URI Online Judge](urionlinejudge.com.br)
 
 ## Índice:
 1. [Principiante](#principiante)

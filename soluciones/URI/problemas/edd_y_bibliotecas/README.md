@@ -7,7 +7,7 @@
 
 | Problema     | Propuesto por | Solución     | Lenguaje | Estado | [ms] | CPU Complexity| Memory Complexity | Commentario|
 |  :----:        |    :----:   |           :----:  |           :----:  |            :----:  |            :----:  |            :----:  |            :----:  |             :----:  | 
-| 1022      | Yhatoh     | [link](soluciones/URI/problemas/edd_y_bibliotecas/1022_Yhatoh.cpp)   | C++ | ![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC) | 0.024 | O(t log(n)) | O(1) | in euclid's algorithm we trust|
+| 1022      | Yhatoh     | [link](soluciones/URI/problemas/edd_y_bibliotecas/1022_Yhatoh.cpp)   | C++ | ![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC) | 0.024 |![O(tlogn)](https://render.githubusercontent.com/render/math?math=O(tlogn)) | O(1) | in euclid's algorithm we trust|
 | 1068   | Yhatoh      | [link](soluciones/URI/problemas/edd_y_bibliotecas/1068_Yhatoh.cpp)   | C++ | ![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC) | 0.120 | O(t$\cdot$n) | O(n) | hay que hacer como si los numeros no existieran y usar una pila para ver el correcto balanceo |
 | 1069   | Yhatoh      | [link](soluciones/URI/problemas/edd_y_bibliotecas/1069_Yhatoh.py)    | Python|![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC)| 0.116 | O(t$\cdot$n) | O(n) | es el mismo problema que el 1069, solo que un pequeño cambio en la condición|
 | 1110   | Yhatoh      | [link](soluciones/URI/problemas/edd_y_bibliotecas/1110_Yhatoh.cpp)    | C++ | ![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC)| 0.072 | O(t$\cdot$n) | O(n) | colas is love colas is live|

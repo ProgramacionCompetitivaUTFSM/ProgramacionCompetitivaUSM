@@ -17,3 +17,4 @@
 | 1548   | [Yhatoh](https://github.com/Yhatoh) | [🔗](/soluciones/URI/problemas/edd_y_bibliotecas/1548/1548_Yhatoh.py)    | Python|![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC)| 0.032 | O(t\*m\*log(m)) | O(2n) | si toy igual me quedo quieto|
 | 1763   | [Yhatoh](https://github.com/Yhatoh) | [🔗](/soluciones/URI/problemas/edd_y_bibliotecas/1763/1763_Yhatoh.cpp)    | C++|![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC)| 0.036 | O(len(line)) | O(13) | a pura condición oe si|
 | 2958   | [Yhatoh](https://github.com/Yhatoh) | [🔗](/soluciones/URI/problemas/edd_y_bibliotecas/2958/2958_Yhatoh.cpp)    | C++ |![AC](https://placehold.it/40/32CD32/FFFFFF?text=AC)| 0.004 | O(n\*log(n)) | O(n) | soy v o soy d, esa es la cuestión|
+
